@@ -1,7 +1,7 @@
 :root{
-    --main-colour: skyblue;
+    --main-colour: rgb(11, 74, 99);
 }
 
 body{
-    color: var(--main-colour);
+    background-color: var(--main-colour);
 }
